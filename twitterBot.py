@@ -13,6 +13,7 @@ consumer_secret_key = authCredentials.API_secret_key
 access_token = authCredentials.access_token
 access_token_secret = authCredentials.access_token_secret
 
+
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret_key)
 auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth)
