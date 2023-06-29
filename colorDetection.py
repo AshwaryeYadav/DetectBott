@@ -43,4 +43,3 @@ def color_analysis():
 
 
     
-
