@@ -8,7 +8,7 @@ Twitter Bot: [@DetectBott](https://twitter.com/DetectBott)
 
 Team Oak Tree (Middle East)
 - Omar Abdallah | [@Oabdalah23](https://github.com/Oabdalah23)
-- Ashwarye Yadav | [@Ashwarye-Y](https://github.com/Ashwarye-Y)
+- Ashwarye Yadav | [@Ashwarye-Y](https://github.com/Ashwaryeyadav)
 - Karam Masad
 
 
