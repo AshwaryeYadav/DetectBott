@@ -57,7 +57,6 @@ def decode_an_image_file( image_file, manTraNet ) :
     mask, ptime = decode_an_image_array( rgb, manTraNet )
     return rgb, mask, ptime.total_seconds()
 
-
 def get_image_from_url(url, xrange=None, yrange=None) :
     response = requests.get(url)
     img = Image.open(BytesIO(response.content))
